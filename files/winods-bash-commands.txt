@@ -1,0 +1,17 @@
+﻿#. check directory path
+
+   pwd
+
+#. check folder and files of the directory
+  
+   ls
+
+#. Move to next directory
+  
+   cd directory_name
+ 
+#. Move to previous directory
+  
+   cd ..
+
+
