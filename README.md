@@ -5,7 +5,7 @@ followed the easiest process.
 
 ## Workflow
 
-![Workflow](./images/react-developer-roadmap.png)
+![Workflow](./images/workflow.png)
 
 ## Commands
 
